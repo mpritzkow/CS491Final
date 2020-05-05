@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Matt Pritzkow\\OneDrive - Optim\\Desktop\\CS491Project\\CS491Final\\CS491Final\\CS491Final.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Matt Pritzkow\\OneDrive - Optim\\Desktop\\CS491Project\\CS491Final\\CS491Final\\CS491Final.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Matt Pritzkow\\OneDrive - Optim\\Desktop\\CS491Project\\CS491Final\\CS491Final\\CS491Final.csproj",
+        "projectName": "CS491Final",
+        "projectPath": "C:\\Users\\Matt Pritzkow\\OneDrive - Optim\\Desktop\\CS491Project\\CS491Final\\CS491Final\\CS491Final.csproj",
+        "packagesPath": "C:\\Users\\Matt Pritzkow\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Matt Pritzkow\\OneDrive - Optim\\Desktop\\CS491Project\\CS491Final\\CS491Final\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Matt Pritzkow\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
